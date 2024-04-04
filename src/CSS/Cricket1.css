@@ -1,0 +1,110 @@
+.button1crik {
+    font-family: Inter, sans-serif;
+    border-radius: 51px;
+    background-color: #1d9575;
+    margin-top: 108px;
+    justify-content: center;
+    white-space: nowrap;
+    padding: 14px 39px;
+    cursor: pointer;
+    border: none;
+    color: var(--Color, #fff);
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    transition: background-color 0.20s ease; /* Add transition for smooth hover effect */
+}
+
+.button1crik:hover {
+        background-color: #000000; /* Change background color on hover */
+    transition: background-color 0.20s ease;
+    color: white;
+}
+.divcrik {
+    background-color: var(--Color, #fff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 60px;
+}
+
+.divcrik-2 {
+    display: flex;
+    margin-top: 94px;
+    width: 100%;
+    max-width: 1124px;
+    flex-direction: column;
+}
+
+.divcrik-3 {
+    color: #000;
+    text-align: center;
+    -webkit-text-stroke-width: 1;
+    -webkit-text-stroke-color: #000;
+    align-self: center;
+    font: 400 60px Lao Sans Pro, sans-serif;
+}
+
+.divcrik-4 {
+    border-radius: 50px;
+    background-color: #aee8e5;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin: 122px 0 0 10px;
+    padding: 23px 80px 37px;
+}
+
+.divcrik-5 {
+    color: #000;
+    letter-spacing: 1.05px;
+    align-self: center;
+    font: 700 35px Inter, sans-serif;
+}
+
+.divcrik-6 {
+    display: flex;
+    width: 867px;
+    max-width: 100%;
+    justify-content: space-between;
+    gap: 20px;
+    color: #000;
+    font-weight: 500;
+    margin: 41px 0 0 17px;
+}
+
+.divcrik-7 {
+    letter-spacing: 1.05px;
+    align-self: start;
+    flex-grow: 1;
+    flex-basis: auto;
+    font: 35px Inter, sans-serif;
+}
+
+.divcrik-8 {
+    letter-spacing: 0.9px;
+    flex-grow: 1;
+    flex-basis: auto;
+    font: 30px Inter, sans-serif;
+}
+
+.divcrik-9 {
+    display: flex;
+    width: 867px;
+    max-width: 100%;
+    padding-right: 17px;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 30px;
+    margin: 73px 0 0 17px;
+}
+
+.divcrik-10 {
+    color: #000;
+    font-family: Inter, sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.9px;
+    align-self: start;
+    flex-grow: 1;
+    flex-basis: auto;
+}

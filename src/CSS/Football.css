@@ -1,0 +1,147 @@
+.button-11 {
+    font-family: Inter, sans-serif;
+    border-radius: 50px;
+    background-color: #76c9e7;
+    margin-top: 108px;
+    justify-content: center;
+    white-space: nowrap;
+    padding: 17px 21px;
+    border: none;
+    color: #000;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.20s ease; /* Add transition for smooth hover effect */
+}
+
+    .button-11:hover {
+        background-color: #096384; /* Change background color on hover */
+        transition: background-color 0.20s ease;
+        color: white;
+    }
+
+.divfootball {
+    background-color: var(--Color, #fff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 60px;
+}
+
+.divfootball-2 {
+    display: flex;
+    margin-top: 115px;
+    width: 100%;
+    max-width: 1237px;
+    flex-direction: columnfootball;
+    align-items: center;
+}
+
+
+.imgfootball {
+    aspect-ratio: 1.52;
+    object-fit: auto;
+    object-position: center;
+    width: 1000px;
+    max-width: 100%;
+}
+
+.divfootball-3 {
+    color: #000;
+    text-align: center;
+    -webkit-text-stroke-width: 1;
+    -webkit-text-stroke-color: #000;
+    margin-top: 36px;
+    font: 400 45px Lao Sans Pro, sans-serif;
+}
+
+
+.divfootball-4 {
+    border-radius: 40px;
+    background-color: #aee8e5;
+    align-self: stretch;
+    margin-top: 51px;
+    justify-content: center;
+    color: #000;
+    letter-spacing: 0.6px;
+    padding: 15px 26px;
+    font: 600 20px Inter, sans-serif;
+}
+
+
+
+.divfootball-5 {
+    align-self: stretch;
+    margin-top: 65px;
+}
+
+
+.divfootball-6 {
+    gap: 20px;
+    display: flex;
+}
+
+
+.columnfootball {
+    display: flex;
+    flex-direction: columnfootball;
+    line-height: normal;
+    width: 55%;
+    margin-left: 0px;
+}
+
+
+.divfootball-7 {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: columnfootball;
+    color: #000;
+}
+
+
+.divfootball-8 {
+    text-align: center;
+    font: 700 30px Inter, sans-serif;
+}
+
+.divfootball-9 {
+    border-radius: 38px;
+    background-color: #aee8e5;
+    margin-top: 12px;
+    justify-content: center;
+    align-items: start;
+    padding: 17px 38px;
+    font: 600 18px Inter, sans-serif;
+}
+
+
+.columnfootball-2 {
+    display: flex;
+    flex-direction: columnfootball;
+    line-height: normal;
+    width: 45%;
+    margin-left: 20px;
+}
+
+.divfootball-10 {
+    display: flex;
+    flex-direction: columnfootball;
+    color: #000;
+}
+
+
+.divfootball-11 {
+    text-align: center;
+    white-space: nowrap;
+    font: 700 30px Inter, sans-serif;
+}
+
+
+.divfootball-12 {
+    border-radius: 38px;
+    background-color: #aee8e5;
+    margin-top: 50px;
+    justify-content: center;
+    padding: 34px 48px 34px 13px;
+    font: 600 20px Inter, sans-serif;
+}
+

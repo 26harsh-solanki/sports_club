@@ -1,0 +1,121 @@
+.divsignup-10:hover {
+    background-color: #21a2ff;
+    color: #fff;
+}
+
+.divsignup-12:hover {
+    background-color: #21a2ff;
+    color: #fff;
+}
+
+.divsignup {
+    justify-content: center;
+    background-color: var(--Color, #fff);
+    display: flex;
+    flex-direction: column;
+    font-size: 18px;
+    color: #021102;
+    font-weight: 300;
+}
+
+.divsignup-2 {
+    background-color: var(--Color, #fff);
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.divsignup-3 {
+    background-color: #aee8e5;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 60px;
+}
+
+.divsignup-4 {
+    border: 1px solid #000;
+    background-color: var(--Color, #fff);
+    display: flex;
+    width: 515px;
+    max-width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 167px 0 5px;
+    padding: 50px 60px;
+}
+
+.divsignup-5 {
+    display: flex;
+    margin-bottom: 48px;
+    width: 285px;
+    max-width: 100%;
+    flex-direction: column;
+    align-items: center;
+}
+
+.divsignup-6 {
+    color: #53817e;
+    font: 400 60px Inter, sans-serif;
+    margin-bottom: 35px;
+}
+
+.divsignup-7 {
+    font-family: Inter, sans-serif;
+    border-radius: 60px;
+    border: 1px solid #000;
+    align-self: stretch;
+    margin-top: 67px;
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;
+    padding: 13px 60px;
+}
+
+.divsignup-8 {
+    font-family: Inter, sans-serif;
+    border-radius: 60px;
+    border: 1px solid #000;
+    align-self: stretch;
+    margin-top: 32px;
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;
+    text-align: center;
+    padding: 7px 60px;
+}
+
+.divsignup-10 {
+    border-radius: 100px;
+    border: 1px solid #000;
+    background-color: #7fcac5;
+    margin-top: 82px;
+    justify-content: center;
+    color: #0f0101;
+    white-space: nowrap;
+    text-align: center;
+    letter-spacing: 0.5px;
+    padding: 7px 43px;
+    font: 500 25px Inter, sans-serif;
+}
+
+.divsignup-11 {
+    text-align: center;
+    margin-top: 45px;
+    font: 500 23px Inter, sans-serif;
+}
+
+.divsignup-12 {
+    border-radius: 100px;
+    border: 1px solid #000;
+    background-color: #7fcac5;
+    white-space: nowrap;
+    margin-top: 18px;
+    justify-content: center;
+    color: #000;
+    text-align: center;
+    padding: 7px 29px;
+    font: 400 15px Inter, sans-serif;
+}
